@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.332 s <<< FAILURE! - in TestSuite
+runScenario(com.expedia.utilities.TestRunner)  Time elapsed: 11.663 s  <<< FAILURE!
+java.lang.AssertionError: expected [Title is not matching] but found [true]
+
